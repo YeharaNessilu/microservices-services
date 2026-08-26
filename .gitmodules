@@ -1,0 +1,9 @@
+[submodule "book-service"]
+	path = book-service
+	url = https://github.com/YeharaNessilu/book-service-.git
+[submodule "donate-service"]
+	path = donate-service
+	url = https://github.com/YeharaNessilu/donate-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/YeharaNessilu/user-service.git
